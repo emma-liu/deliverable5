@@ -1,3 +1,4 @@
+//No changes in this class
 public class Room {
 
 	private static int _pseudoRand = 0;
